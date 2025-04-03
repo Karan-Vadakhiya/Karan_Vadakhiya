@@ -1,3 +1,3 @@
 # Karan_Vadakhiya
 First Git Repository
-Hello, there!!! I'm Karan.
+Hello, there!!! I'm Karan Vadakhiya
